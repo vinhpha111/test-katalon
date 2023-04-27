@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_TIN NNG</name>
+   <tag></tag>
+   <elementGuidId>9ad56e39-a2a6-4f48-a70c-2b0b48b8b58b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wapper']/header/div[3]/div/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.icon-hot</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ef95da32-7e02-4831-96d4-08e7b5b61cfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tin-nong.htm</value>
+      <webElementGuid>44e90b8e-e012-49d0-9cf8-0d11971a3ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>TIN NÓNG</value>
+      <webElementGuid>0dbdff3f-35dd-4f61-ac19-fa8214a1efd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-hot</value>
+      <webElementGuid>b9d5fa6e-cb6f-4716-b0ed-9902a823a363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TIN NÓNG</value>
+      <webElementGuid>77c44dda-3a3e-45bc-9537-e47d11513b56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wapper&quot;)/header[1]/div[@class=&quot;header-menu&quot;]/div[@class=&quot;w980&quot;]/div[@class=&quot;tvoMenu&quot;]/ul[1]/li[2]/a[@class=&quot;icon-hot&quot;]</value>
+      <webElementGuid>7d4d0d5d-becc-482f-b215-cbe5b3335003</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wapper']/header/div[3]/div/div/ul/li[2]/a</value>
+      <webElementGuid>6e440126-c91e-48d3-b650-0e42500da5d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'TIN NÓNG')]</value>
+      <webElementGuid>39dbbe0a-57a4-4e9e-9e44-462478a46cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video'])[1]/following::a[1]</value>
+      <webElementGuid>f437acd1-5ea2-496b-83eb-e18897d5e3a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotline: 0918.033.133'])[1]/following::a[6]</value>
+      <webElementGuid>dc476c02-d7c8-465a-b849-561505d1ea58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THÚ VỊ'])[1]/preceding::a[1]</value>
+      <webElementGuid>4191fa78-1d96-4ac7-9431-bcfe8cc62c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KHÁM PHÁ TRƯỜNG HỌC'])[1]/preceding::a[2]</value>
+      <webElementGuid>f6f55f9a-c2b3-48fe-9efa-324043c439ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TIN NÓNG']/parent::*</value>
+      <webElementGuid>13b653e6-0ba8-47a5-af53-2d07d21e1aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tin-nong.htm')]</value>
+      <webElementGuid>b12bcede-025d-4be4-a3ac-709c950ccbb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li[2]/a</value>
+      <webElementGuid>91388cf2-ddb2-4fd9-8e00-5ca4c2609d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tin-nong.htm' and @title = 'TIN NÓNG' and (text() = 'TIN NÓNG' or . = 'TIN NÓNG')]</value>
+      <webElementGuid>77d9c883-58c9-4698-bcc9-f0ff43e7e3fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
